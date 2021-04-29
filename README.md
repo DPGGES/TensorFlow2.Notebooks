@@ -4,7 +4,7 @@ TensorFlow2 Notebooks
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 
-This repository hosts a simple solutions to several problem domains to be addressed with TensorFlow v2.  Note that you are dealing with simplifications of real problems.
+This repository hosts simple solutions to several problem domains addressed with TensorFlow v2.  Note that you are dealing with simplifications of real problems.
 
 ## Installation
 
